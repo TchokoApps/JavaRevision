@@ -1,4 +1,4 @@
-package com.tchoko.java.revision.JavaRevision;
+package com.tchoko.java.revision.JavaRevision.model;
 
 public class Person {
 
