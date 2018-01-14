@@ -11,7 +11,7 @@ public class App {
 	public static void main(String[] args) {
 		List<Developer> developers = getDevelopers();
 		
-		developers.stream().filter(d -> d.getName().contains("n")).map(Developer::getSalary).forEach(System.out::println);;
+		developers.stream().filter(d -> d.getName().contains("n")).map(Developer::getSalary).forEach(System.out::println);
 		
 	}
 
