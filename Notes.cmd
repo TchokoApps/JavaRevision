@@ -9,4 +9,5 @@ https://github.com/simplesteph
 
 Apache Kafka links
 -----------------------------------------------------------
+https://github.com/dsaish3/TeachApacheKafka/blob/master/Kafka_Commands.md
 https://github.com/dsaish3
