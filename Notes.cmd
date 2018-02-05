@@ -61,4 +61,6 @@ https://github.com/hendisantika/spring-boot-file-upload-example/blob/master/READ
 https://github.com/hellokoding/uploadingfiles-springboot
 https://github.com/valor-software/ng2-file-upload/issues/875
 
+gatling.io (web performance tool)
+
 https://github.com/raphaelbrugier/spring-integration-kafka-sample/blob/master/src/main/java/com/github/rbrugier/spring/consumer/SoutKafkaListener.java
