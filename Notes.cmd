@@ -1,3 +1,12 @@
+Books to buy
+------------------------------------------------------------
+Patterns of Enterprise Application Architecture                                           
+Praxis handbuch bpmn
+Patterns of Enterprise Application Architecture  (Martin fowler)                                         
+Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development (3rd Edition)Oct 
+JBoss im Einsatz
+Java Power Tools
+Java Enterprise Best PracticesDec 2002
 Antipattern links
 ------------------------------------------------------------
 https://sourcemaking.com/antipatterns
