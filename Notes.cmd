@@ -1,3 +1,7 @@
+Great java links
+------------------------------------------------------------
+http://www.logicbig.com
+
 Books to buy
 ------------------------------------------------------------
 Patterns of Enterprise Application Architecture                                           
