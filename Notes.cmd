@@ -1,6 +1,14 @@
 gatling performance tests
 ------------------------------------------------------------
+http://brokenrhythm.blog/gradle-gatling-springboot-automation
+https://www.blazemeter.com/blog/api-load-testing-with-gatling
+https://abstracta.us/blog/performance-testing/gatling-vs-jmeter-findings/
+https://theperformanceengineer.com/
 https://automationrhapsody.com/tag/gatling/
+https://www.thoughtworks.com/de/insights/blog/gatling-take-your-performance-tests-next-level
+https://qxf2.com/blog/performance-testing-using-gatling/
+https://whiteprompt.com/scala/stress-test-restful-service-gatling/
+https://www.youtube.com/watch?v=U8nmVUBRmFQ
 
 Great java links
 ------------------------------------------------------------
