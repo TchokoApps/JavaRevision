@@ -1,6 +1,7 @@
 uml eclipse
 -------------------------------------------------------------
 http://www.objectaid.com/home
+https://www.infoworld.com/article/2606814/development-tools/development-tools-12-eclipse-plug-ins-every-developer-should-use.html#slide18
 
 gatling performance tests
 ------------------------------------------------------------
