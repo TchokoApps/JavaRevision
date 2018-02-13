@@ -1,6 +1,7 @@
 Great java links
 ------------------------------------------------------------
 http://www.logicbig.com
+https://www.journaldev.com
 
 Books to buy
 ------------------------------------------------------------
