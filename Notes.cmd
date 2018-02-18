@@ -5,6 +5,13 @@ https://www.infoworld.com/article/2606814/development-tools/development-tools-12
 
 gatling performance tests
 ------------------------------------------------------------
+https://github.com/dan-gibson/gatling-load-tests/tree/master/src/test/scala/bbc
+https://github.com/nhuray/gatling-maven-project
+
+
+
+
+
 http://brokenrhythm.blog/gradle-gatling-springboot-automation
 https://www.blazemeter.com/blog/api-load-testing-with-gatling
 https://abstracta.us/blog/performance-testing/gatling-vs-jmeter-findings/
