@@ -1,5 +1,10 @@
 Spring Boot Configuration Binding
 ---------------------------------------------------------------
+http://blog.indrek.io/articles/type-safe-configuration-in-spring-boot/
+https://www.boraji.com/spring-boot-configurationproperties-example
+https://www.mkyong.com/spring-boot/spring-boot-configurationproperties-example/
+http://www.mkyong.com/spring-boot/spring-boot-profile-based-properties-and-yaml-example/
+
 https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding
 https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/amqp/RabbitProperties.java
 https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/kafka
