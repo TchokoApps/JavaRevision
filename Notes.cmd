@@ -4,6 +4,14 @@ https://github.com/khoubyari/spring-boot-rest-example/blob/master/src/main/resou
 https://github.com/spring-projects/spring-xd/blob/master/spring-xd-dirt/src/main/resources/application.yml
 https://github.com/astefanutti/spring-boot-camel-rest-jpa/blob/master/src/main/resources/application.yml
 https://github.com/khoubyari/spring-boot-rest-example/blob/master/src/main/resources/application.yml
+https://github.com/apache/camel/blob/master/examples/camel-example-spring-boot-rest-jpa/src/main/resources/application.yml
+https://github.com/spring-cloud-samples/config-repo/blob/master/application.yml
+https://github.com/spring-petclinic/spring-petclinic-microservices-config/blob/master/application.yml
+https://github.com/szerhusenBC/jwt-spring-security-demo/blob/master/src/main/resources/application.yml
+https://github.com/spring-cloud-samples/scripts/blob/master/demo/application.yml
+https://github.com/kbastani/spring-boot-graph-processing-example/blob/master/twitter-rank-crawler/src/main/resources/application.yml
+https://github.com/spring-projects/spring-integration-samples/tree/master/basic/kafka
+
 
 uml eclipse
 -------------------------------------------------------------
