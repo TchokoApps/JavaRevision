@@ -1,3 +1,14 @@
+Spring Boot Configuration Binding
+---------------------------------------------------------------
+https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding
+https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/amqp/RabbitProperties.java
+https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/kafka
+https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java
+https://github.com/snicoll-demos/spring-boot-configuration-binding/blob/master/src/main/java/demo/DemoApplication.java
+https://github.com/spring-projects/spring-boot/wiki/Relaxed-Binding-2.0
+https://github.com/snicoll-demos/spring-boot-configuration-binding/blob/master/src/main/java/demo/EmailProperties.java
+
+
 application.yml spring boot
 --------------------------------------------------------------
 https://github.com/khoubyari/spring-boot-rest-example/blob/master/src/main/resources/application.yml
@@ -11,7 +22,7 @@ https://github.com/szerhusenBC/jwt-spring-security-demo/blob/master/src/main/res
 https://github.com/spring-cloud-samples/scripts/blob/master/demo/application.yml
 https://github.com/kbastani/spring-boot-graph-processing-example/blob/master/twitter-rank-crawler/src/main/resources/application.yml
 https://github.com/spring-projects/spring-integration-samples/tree/master/basic/kafka
-
+https://github.com/spring-projects/spring-integration-samples/blob/master/basic/kafka/src/main/java/org/springframework/integration/samples/kafka/KafkaAppProperties.java
 
 uml eclipse
 -------------------------------------------------------------
