@@ -1,3 +1,10 @@
+application.yml spring boot
+--------------------------------------------------------------
+https://github.com/khoubyari/spring-boot-rest-example/blob/master/src/main/resources/application.yml
+https://github.com/spring-projects/spring-xd/blob/master/spring-xd-dirt/src/main/resources/application.yml
+https://github.com/astefanutti/spring-boot-camel-rest-jpa/blob/master/src/main/resources/application.yml
+https://github.com/khoubyari/spring-boot-rest-example/blob/master/src/main/resources/application.yml
+
 uml eclipse
 -------------------------------------------------------------
 http://www.objectaid.com/home
