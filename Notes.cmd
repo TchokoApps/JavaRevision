@@ -1,3 +1,8 @@
+Most important linux command
+----------------------------------------------------------------
+pwd, ls, cat, ll, ls -al, less, 
+https://maker.pro/education/basic-linux-commands-for-beginners
+
 Spring Boot Configuration Binding
 ---------------------------------------------------------------
 http://blog.indrek.io/articles/type-safe-configuration-in-spring-boot/
