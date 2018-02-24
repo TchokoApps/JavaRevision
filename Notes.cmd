@@ -18,7 +18,6 @@ https://github.com/snicoll-demos/spring-boot-configuration-binding/blob/master/s
 https://github.com/spring-projects/spring-boot/wiki/Relaxed-Binding-2.0
 https://github.com/snicoll-demos/spring-boot-configuration-binding/blob/master/src/main/java/demo/EmailProperties.java
 
-
 application.yml spring boot
 --------------------------------------------------------------
 https://github.com/khoubyari/spring-boot-rest-example/blob/master/src/main/resources/application.yml
@@ -43,10 +42,6 @@ gatling performance tests
 ------------------------------------------------------------
 https://github.com/dan-gibson/gatling-load-tests/tree/master/src/test/scala/bbc
 https://github.com/nhuray/gatling-maven-project
-
-
-
-
 
 http://brokenrhythm.blog/gradle-gatling-springboot-automation
 https://www.blazemeter.com/blog/api-load-testing-with-gatling
