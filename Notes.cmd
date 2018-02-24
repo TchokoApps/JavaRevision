@@ -2,6 +2,7 @@ Most important linux command
 ----------------------------------------------------------------
 pwd, ls, cat, ll, ls -al, less, 
 https://maker.pro/education/basic-linux-commands-for-beginners
+http://www.dummies.com/computers/operating-systems/linux/common-linux-commands/
 
 Spring Boot Configuration Binding
 ---------------------------------------------------------------
