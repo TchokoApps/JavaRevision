@@ -7,6 +7,10 @@ git commit -a -m "comment"
 git log
 git log --oneline
 git log -n 10
+git log --oneline -n 10
+git log hello.txt
+git branch
+git branch branch_name
 
 
 Most important linux command
