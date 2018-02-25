@@ -6,6 +6,8 @@ git add
 git commit -a -m "comment"
 git log
 git log --oneline
+git log -n 10
+
 
 Most important linux command
 ----------------------------------------------------------------
