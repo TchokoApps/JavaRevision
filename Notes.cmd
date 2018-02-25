@@ -17,6 +17,13 @@ git log --oneline --decorate
 git merge branch_001 (merge branch "branch_001" to "master" branch)
 git branch -d branch_name (use this command when you need to delate a branch)
 git log --all --oneline --graph
+git reset file_name (use this command to remove file from the stagging area)
+stagging area contains files that are prepared to be committed 
+git checkout file_name (give you the last committed file back. usefull to remove changes done)
+
+rm -rf .git (use this command when we not longer need to track a project with git)
+touch file_name (linux command to create a new file)
+diffmerge (great tool for merge)
 
 
 Most important linux command
