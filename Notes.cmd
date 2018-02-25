@@ -11,11 +11,18 @@ git log --oneline -n 10 (log max 10 commits)
 git log hello.txt (log all commits for the file "hello.txt")
 git branch (log all branches)
 git branch branch_name (create a new branch)
+git checkout branch_001 (switch to branch "branch_001")
+git branch (highlighted in green the branch we are working on)
+git log --oneline --decorate
+git merge branch_001 (merge branch "branch_001" to "master" branch)
+git branch -d branch_name (use this command when you need to delate a branch)
+git log --all --oneline --graph
 
 
 Most important linux command
 ----------------------------------------------------------------
 pwd, ls, cat, ll, ls -al, ls -a, less, 
+cd ../../../ (go back three time)
 https://maker.pro/education/basic-linux-commands-for-beginners
 http://www.dummies.com/computers/operating-systems/linux/common-linux-commands/
 
