@@ -5,6 +5,7 @@ git init
 git add
 git commit -a -m "comment"
 git log
+git log --oneline
 
 Most important linux command
 ----------------------------------------------------------------
