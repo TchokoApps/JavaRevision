@@ -1,3 +1,11 @@
+git command
+-----------------------------------------------------------------
+git status 
+git init
+git add
+git commit -a -m "comment"
+git log
+
 Most important linux command
 ----------------------------------------------------------------
 pwd, ls, cat, ll, ls -al, less, 
