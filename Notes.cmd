@@ -1,16 +1,16 @@
 git command
 -----------------------------------------------------------------
-git status 
-git init
-git add
-git commit -a -m "comment"
-git log
-git log --oneline
-git log -n 10
-git log --oneline -n 10
-git log hello.txt
-git branch
-git branch branch_name
+git status (check the status)
+git init (init folder with git. This folder will be under version control)
+git add (add new file stage)
+git commit -a -m "comment" (add and commit with comment)
+git log (log all)
+git log --oneline (log commits, short version)
+git log -n 10 (log max 10 commits)
+git log --oneline -n 10 (log max 10 commits)
+git log hello.txt (log all commits for the file "hello.txt")
+git branch (log all branches)
+git branch branch_name (create a new branch)
 
 
 Most important linux command
