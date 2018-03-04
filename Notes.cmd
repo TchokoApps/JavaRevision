@@ -31,6 +31,9 @@ git push -u origin master
 git remote -v (get to location of fetch and push)
 git pull (get the latest version of the code on remote repo. download the file from remote repo to local repo)
 git branch -a (to check all branches)
+git checkout d11ff10 (checkout a commit d11xxx=commitId)
+git checkout d11ff10 test.txt (to checkout a file)
+git checkout head test.txt (to go back to the head status)
 
 Most important linux command
 ----------------------------------------------------------------
