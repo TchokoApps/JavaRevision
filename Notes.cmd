@@ -26,6 +26,8 @@ rm -rf .git (use this command when we not longer need to track a project with gi
 touch file_name (linux command to create a new file)
 diffmerge (great tool for merge)
 
+git clone -b <branch> <remote_repo>
+
 git remote add origin https://github.com/TchokoApps/TestRepository.git (origine is a reference of the remote repo. you can called it what ever you want)
 git push -u origin master
 git remote -v (get to location of fetch and push)
