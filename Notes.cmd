@@ -27,7 +27,19 @@ touch file_name (linux command to create a new file)
 diffmerge (great tool for merge)
 
 git clone -b <branch> <remote_repo>
+------------------------------
+cd existing-project
+git initgit add --all
+git commit -m "Initial Commit"
+git remote add origin remote_url
+git push -u origin master
+-----------------------------------------
 
+cd existing-project
+git remote set-url origin remote_url
+git push -u origin --all
+git push origin --tags
+------------------------------
 git remote add origin https://github.com/TchokoApps/TestRepository.git (origine is a reference of the remote repo. you can called it what ever you want)
 git push -u origin master
 git remote -v (get to location of fetch and push)
