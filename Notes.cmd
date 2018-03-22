@@ -1,3 +1,7 @@
+top java links
+-----------------------------------------------------------------
+https://www.petrikainulainen.net
+
 git command
 -----------------------------------------------------------------
 git status (check the status)
