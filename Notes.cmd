@@ -1,3 +1,10 @@
+spring boot angular js
+--------------------------------------------------------------------
+https://github.com/mrin9/Angular-SpringBoot-REST-JWT
+https://github.com/ipassynk/angular-springboot-jwt
+search for: angular spring boot site:github.com
+https://github.com/oktadeveloper/spring-boot-angular-example
+
 top java links
 -----------------------------------------------------------------
 https://github.com/eugenp/tutorials
