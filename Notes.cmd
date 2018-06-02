@@ -65,13 +65,6 @@ https://github.com/loxal/spring-boot-poc
 https://github.com/arturopala/spring-boot-flights-search
 https://github.com/schmidltomas/PA165-CarPark/tree/master/carpark-rest
 
-
-
-
-
-
-
-
 top java website
 --------------------------------------------------------------------
 javasampleapproach.com
