@@ -66,6 +66,10 @@ https://github.com/arturopala/spring-boot-flights-search
 https://github.com/schmidltomas/PA165-CarPark/tree/master/carpark-rest
 
 https://github.com/jonashackt/spring-boot-vuejs
+https://github.com/anilallewar/microservices-basics-spring-boot
+search for: spring boot angular/jso/thymeleaf/hotel/cities service(top)
+/taxi/booking/social/chat/email/restaurant/elearning
+
 
 top java website
 --------------------------------------------------------------------
