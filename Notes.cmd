@@ -275,3 +275,7 @@ https://github.com/valor-software/ng2-file-upload/issues/875
 gatling.io (web performance tool)
 
 https://github.com/raphaelbrugier/spring-integration-kafka-sample/blob/master/src/main/java/com/github/rbrugier/spring/consumer/SoutKafkaListener.java
+
+camunda
+********
+https://docs.camunda.org/get-started
