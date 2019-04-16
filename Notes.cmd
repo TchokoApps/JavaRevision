@@ -87,6 +87,12 @@ top java links
 https://github.com/eugenp/tutorials
 https://www.petrikainulainen.net
 
+great git links:
+-----------------------------------------------------------------
+https://marklodato.github.io/visual-git-guide/index-en.html
+http://rogerdudler.github.io/git-guide/
+https://agripongit.vincenttunru.com/
+
 git command
 -----------------------------------------------------------------
 git status (check the status)
